@@ -2,3 +2,4 @@
 "# software-hardware" 
 "# technicalhubproject" 
 "# software-and-hardware-" 
+"# soft-and-hard-devices" 
